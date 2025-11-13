@@ -1,1 +1,9 @@
+
+# .gitignore
 .m2/
+target/
+*.log
+*.jar
+.idea/
+*.iml
+
